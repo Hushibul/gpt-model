@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gpt-model/static/css/main.e58a8c68.chunk.css",
+    "main.js": "/gpt-model/static/js/main.68492ad3.chunk.js",
+    "main.js.map": "/gpt-model/static/js/main.68492ad3.chunk.js.map",
+    "runtime-main.js": "/gpt-model/static/js/runtime-main.e21287a5.js",
+    "runtime-main.js.map": "/gpt-model/static/js/runtime-main.e21287a5.js.map",
+    "static/js/2.d2d03ff6.chunk.js": "/gpt-model/static/js/2.d2d03ff6.chunk.js",
+    "static/js/2.d2d03ff6.chunk.js.map": "/gpt-model/static/js/2.d2d03ff6.chunk.js.map",
+    "index.html": "/gpt-model/index.html",
+    "static/css/main.e58a8c68.chunk.css.map": "/gpt-model/static/css/main.e58a8c68.chunk.css.map",
+    "static/js/2.d2d03ff6.chunk.js.LICENSE.txt": "/gpt-model/static/js/2.d2d03ff6.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/gpt-model/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/gpt-model/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/gpt-model/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/gpt-model/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/gpt-model/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/gpt-model/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/gpt-model/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/gpt-model/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/gpt-model/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e21287a5.js",
+    "static/js/2.d2d03ff6.chunk.js",
+    "static/css/main.e58a8c68.chunk.css",
+    "static/js/main.68492ad3.chunk.js"
+  ]
+}
